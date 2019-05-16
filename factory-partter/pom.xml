@@ -13,6 +13,12 @@
         <module>02Singleton</module>
         <module>03factory-partter</module>
         <module>04daili-partter</module>
+        <module>05builder-partter</module>
+        <module>06moban-partter</module>
+        <module>07adapter-parttern</module>
+        <module>08facade-parttern</module>
+        <module>09clone-parttern</module>
+        <module>10celue-parttern</module>
     </modules>
 
 
